@@ -1,0 +1,61 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+pCrypto.spec
+
+# Testing y validación (scripts internos)
+prueba/
+
+# Llave de encriptación (NUNCA subir)
+.crypto_keys/
+*.key
+
+# Sistema
+.DS_Store
+.history/
+Thumbs.db
+
+# Logs
+*.log
+
+# Editor temporales
+*.tmp
+*.bak
