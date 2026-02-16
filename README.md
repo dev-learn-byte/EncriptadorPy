@@ -368,7 +368,7 @@ pyinstaller --onefile --noconsole --name "pCrypto" crypto_gui.py
 
 ## 🤝 Contribución
 
-Este es un proyecto interno de Sprint 5. Para contribuir:
+Este es un proyecto personal. Para contribuir:
 1. Crear branch desde `main`
 2. Realizar cambios y testear exhaustivamente
 3. Actualizar este README.md si se añaden características
@@ -386,7 +386,7 @@ Proyecto interno - Todos los derechos reservados.
 
 Para reportar bugs o solicitar características:
 - Crear issue en el repositorio interno
-- Contactar al equipo de desarrollo de Sprint 5
+
 
 ---
 
